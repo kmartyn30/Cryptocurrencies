@@ -10,6 +10,11 @@ Python cryptocurrency and 3d scatter plots and line graphs with final scatterplo
 
 
 
+![image](https://user-images.githubusercontent.com/107796290/204430458-0dae83cb-bebd-48cf-a4ff-3841a356239d.png)
+
+
+
+
 
 
 
